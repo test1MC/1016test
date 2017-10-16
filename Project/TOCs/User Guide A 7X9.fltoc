@@ -91,7 +91,7 @@
     ChapterNumberReset="continue">
     <TocEntry
       Title="Conditions"
-      Link="/Content/Project/Conditions.htm" />
+      Link="/Content/Project/Users/Conditions.htm" />
     <TocEntry
       Title="Notes, Examples, and Quotations"
       Link="/Content/Project/NotesExamplesQuotations.htm" />
